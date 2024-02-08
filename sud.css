@@ -1,0 +1,100 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+body {
+    display: flex;
+    margin-left: 50rem;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+
+    background-repeat: no-repeat;
+
+}
+
+ .container .userdet {
+    margin-top: 3rem;
+    font-weight: 700;
+}
+
+.container .title {
+    margin: 65px 34px;
+    height: 33px;
+    /*  */
+}
+
+.container .info {
+    margin: 7px 18px;
+    padding: 6px 15px;
+    font-weight: 300;
+}
+
+.container .inputbox .detail {
+    margin-right: 73px;
+    font-weight: 100;
+}
+
+.container .inputbox {
+    margin-right: 244px;
+}
+
+.container {
+    max-width: 700px;
+    width: 100%;
+    padding: 49px 30px;
+    text-align: center;
+}
+
+.forget {
+    display: inline-block;
+    margin-right: 57px;
+    margin-left: 7rem;
+    padding-right: 30px;
+
+}
+
+#reme input {
+    padding-right: 20px;
+}
+
+.inputbox #inpbox {
+    position: relative;
+    margin: 14px 113px;
+    padding: 15px 0px 15px 0px;
+    width: 100%;
+    border: 2px solid #ced2e6;
+    padding-left: 15px;
+    border-radius: 15px;
+
+    background-color: #e8e9f3e3;
+
+}
+
+
+
+button{
+    width: 421px;
+    padding: 5px 2px;
+    text-align: center;
+    margin: 52px 0px;
+    border-radius: 16px;
+    font-weight: bold;
+    font-size: 28px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 2px solid #7b98d1;
+    background-color: #72a5f9;
+    color: #fff;
+    cursor: pointer;
+
+}
+
+img {
+    background-repeat: no-repeat;
+    height: 50rem;
+    width: 36rem;
+    margin: 0rem 0rem -9rem -42rem;
+    padding: 5rem -1rem;
+}
